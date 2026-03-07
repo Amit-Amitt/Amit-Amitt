@@ -11,5 +11,5 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Amit-Amitt
-- LinkedIn: https://www.linkedin.com/in%20/amit-amitt
+- LinkedIn: https://www.linkedin.com/in/amit-amitt/
 - Email: share.amitt@gmail.com
