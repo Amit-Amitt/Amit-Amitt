@@ -1,12 +1,15 @@
 # Hi 👋 I'm Amit
 
-Computer Engineering Student  
-Interested in Technology & Startups 🚀
+🎓 Computer Engineering Student  
+💻 Interested in Technology  
+🚀 Passionate about building useful products  
 
 <p align="center">
   <img src="welcome-header.gif" alt="Welcome Header" width="100%">
 </p>
 
-## 📊 GitHub Stats
+## 📫 Connect With Me
 
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit-Amitt&show_icons=true&theme=tokyonight)
+- GitHub: https://github.com/Amit-Amitt
+- LinkedIn: https://www.linkedin.com/in%20/amit-amitt
+- Email: share.amitt@gmail.com
