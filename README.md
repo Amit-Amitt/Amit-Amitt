@@ -77,18 +77,7 @@ I love code and unicorns 🦄
 </p>
 
 
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/Amit-Amitt">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-</p>
-
+ 
 ---
 
 ⭐ From [Amit-Amitt](https://github.com/Amit-Amitt)
