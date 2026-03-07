@@ -70,11 +70,12 @@ I love code and unicorns 🦄
 
 ---
 
-## 🐍 Contribution Snake
+## 👾 Pac-Man Contribution Graph
 
-![snake gif](https://github.com/Amit-Amitt/Amit-Amitt/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/Amit-Amitt/Amit-Amitt/output/pacman-contribution-graph.svg">
+</p>
 
----
 
 ## 🌐 Connect With Me
 
