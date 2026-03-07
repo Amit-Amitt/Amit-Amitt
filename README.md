@@ -12,4 +12,5 @@
 
 - GitHub: https://github.com/Amit-Amitt
 - LinkedIn: https://www.linkedin.com/in/amit-amitt/
+- Instagram: https://www.instagram.com/amit.yaarr/
 - Email: share.amitt@gmail.com
