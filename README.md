@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi+👋,+I'm+Amit&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Full+Stack+Developer;Open+Source+Learner;I+Love+Code+and+Unicorns&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering+Student;Full+Stack+Developer;Open+Source+Contributor;I+Love+Code+and+Unicorns&center=true&width=500&height=45">
 </p>
 
 ---
