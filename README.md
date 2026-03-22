@@ -49,7 +49,7 @@ I love code and unicorns 🦄
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,linux"/>
 </p>
 
-
+<!--
 ---
 
 ## 🔥 GitHub Streak
@@ -57,7 +57,6 @@ I love code and unicorns 🦄
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Amit-Amitt&theme=tokyonight"/>
 </p>
-
  
 
 ---
@@ -76,7 +75,7 @@ I love code and unicorns 🦄
 <img src="https://raw.githubusercontent.com/Amit-Amitt/Amit-Amitt/output/pacman-contribution-graph.svg">
 </p>
 
-
+-->
  
 ---
 
