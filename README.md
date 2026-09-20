@@ -46,7 +46,7 @@ I love code and unicorns 🦄
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,linux"/>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,c++,java,python,git,github,linux,docker"/>
 </p>
 
 
