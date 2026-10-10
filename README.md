@@ -49,24 +49,6 @@ I love code and unicorns 🦄
 <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,expressjs,bun,cpp,java,python,git,github,linux,docker,aws"/>
 </p>
 
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Amit-Amitt&theme=tokyonight"/>
-</p>
- 
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-Amitt&theme=tokyo-night&area=true&hide_border=true"/>
-</p>
-
 ---
 
 ## 👾 Pac-Man Contribution Graph
