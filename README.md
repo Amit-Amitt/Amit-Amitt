@@ -24,15 +24,7 @@ Amit@github:~$ fun_fact
 I love code and unicorns 🦄
 ```
 
----
-
-
-## 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Amit-Amitt&label=Profile%20views&color=0e75b6&style=flat" width="20%"/>
-</p>
-
+ 
 ---
 
 ## 🦄 About Me
