@@ -30,7 +30,7 @@ I love code and unicorns 🦄
 ## 🦄 About Me
 * 💻 I love coding and building projects
 * 🚀 Interested in **Technology & Startups**
-* 🌱 Currently learning **Full Stack Development**
+* 🌱 Currently learning **AI/ML Engineering**
 * ⚡ Fun fact: **I love code and unicorns 🦄**
 
 ---
